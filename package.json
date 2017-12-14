@@ -1,0 +1,23 @@
+{
+  "name": "next-marvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "isomorphic-unfetch": "^2.0.0",
+    "md5-o-matic": "^0.1.1",
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "reify": "^0.13.3"
+  }
+}
